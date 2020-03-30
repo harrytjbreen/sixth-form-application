@@ -1,0 +1,78 @@
+$theme-colors: (
+        "success": #1B9686,
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+h1, h2, h3, h4, h5, b, p {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+h5 {
+  color: #7a7a7a;
+  background-color: #E2D3A5;
+}
+
+footer {
+  width: 100%;
+}
+
+body {
+  background: #E2D3A5;
+  overflow-x: hidden;
+  user-select: none;
+}
+
+header {
+  width: 100%;
+  background: #b8a373;
+}
+
+.progress {
+  border-radius: 0;
+}
+
+.progress-bar {
+  border-radius: 0;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.custom-select {
+  border-radius: 0;
+  width: 100%;
+}
+
+.triple-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+span:before {
+  content: " ";
+  display: inline-block;
+  width: 32px;
+}
+
+input[type=text] {
+  background: white;
+}
+
+option {
+  background-color: #E9ECEF;
+}
+
+input[type=checkbox] {
+  width: 25px;
+  height: 25px;
+}
+
+.modal-content {
+  border-radius: 0;
+}

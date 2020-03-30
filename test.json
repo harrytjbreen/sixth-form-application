@@ -1,0 +1,40 @@
+{
+  "personalInfo": {
+    "forename": "Scott",
+    "namePreference": "",
+    "surname": "Hiett",
+    "dob": "10/09/2003",
+    "gender": "male",
+    "address": {
+      "houseId": "Treetops",
+      "streetName": "Perrots Brook",
+      "town": "Cirencester",
+      "county": "Gloucestershire",
+      "postcode": "GL77BN",
+      "homeNumber": "01285831265"
+    },
+    "studentMobile": "07792537593",
+    "studentEmail": "scott@hiett.digital",
+    "currentSchool": "marling",
+    "currentYearGroup": 11,
+    "headOfYearName": "Mr Bailey",
+    "citizen": true,
+    "resident": true,
+    "contacts": [
+      {
+        "title": "Mr",
+        "forename": "Robert",
+        "surname": "Hiett",
+        "relationship": "Father",
+        "parentalResponsibility": true,
+        "address": "",
+        "mobile": "23123123123",
+        "workNumber": "12380912380123",
+        "email": "asdasd@asdasdas.com"
+      }
+    ]
+  },
+  "marlingApplicationInfo": {
+
+  }
+}
