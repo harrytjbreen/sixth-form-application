@@ -5,7 +5,7 @@
   "dependencies": {
     "@mo4islona/react-infinite-calendar": "^2.4.7",
     "animate.css": "^3.7.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
