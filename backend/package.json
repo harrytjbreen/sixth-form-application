@@ -14,7 +14,7 @@
     "docx-pdf": "^0.0.1",
     "docxtemplater": "^3.15.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pizzip": "^3.0.6",
     "uuid": "^3.3.3",
     "word2pdf": "^1.0.8"
